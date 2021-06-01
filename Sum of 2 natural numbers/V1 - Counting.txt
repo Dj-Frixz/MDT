@@ -76,4 +76,8 @@ f → end-state
 (c,9,c,-,>)
 (c,-,f,-,<)
 
-This Turing machine is pretty simple and works by increasing the left number by 1 while decreasing the right one by 1 every cicle, until the right number is 0 and the left one is the result. The complexity increases as the right number is bigger. Very inefficient, but it does the job.
+This Turing machine is pretty simple and works by increasing the left number by 1
+while decreasing the right one by 1 every cicle,
+until the right number is 0 and the left one is the result.
+The complexity increases as the right number is bigger.
+Very inefficient, but it does the job.
